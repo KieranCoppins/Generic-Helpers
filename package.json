@@ -1,6 +1,6 @@
 {
     "name": "com.kierancoppins.generic-helpers",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Generic Helpers",
     "description": "Some helper static functions for handling generics in your project",
     "unity": "2021.3",

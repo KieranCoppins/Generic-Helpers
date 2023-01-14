@@ -7,5 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## 1.0.0 - W.I.P
+## 1.0.1
+
+### Added
+
+- Added meta files with each file
+
+### Removed
+
+- .meta files from gitignore
+
+## 1.0.0
 - The first initial release of Generic Helpers
