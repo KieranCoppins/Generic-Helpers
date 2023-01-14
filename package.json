@@ -1,5 +1,5 @@
 {
-    "name": "com.kcoppins.generic-helpers",
+    "name": "com.kierancoppins.generic-helpers",
     "version": "1.0.0",
     "displayName": "Generic Helpers",
     "description": "Some helper static functions for handling generics in your project",
@@ -10,7 +10,7 @@
         "url": "https://kierancoppins.com"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@kcoppins"
+        "registry": "https://npm.pkg.github.com/@kierancoppins"
     },
     "repository": "https://github.com/KieranCoppins/Generic-Helpers.git",
     "changelogUrl": "https://github.com/KieranCoppins/Generic-Helpers/blob/master/CHANGELOG.md",
