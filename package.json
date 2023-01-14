@@ -7,6 +7,9 @@
     "unityRelease": "6f1",
     "author": {
         "name": "Kieran Coppins"
-    }
+    },
+    "repository": "https://github.com/KieranCoppins/Generic-Helpers.git",
+    "changelogUrl": "https://github.com/KieranCoppins/Generic-Helpers/blob/master/CHANGELOG.md",
+    "licensesUrl": "https://github.com/KieranCoppins/Generic-Helpers/blob/master/LICENSE.md"
     
 }
