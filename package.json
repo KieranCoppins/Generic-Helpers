@@ -6,7 +6,11 @@
     "unity": "2021.3",
     "unityRelease": "6f1",
     "author": {
-        "name": "Kieran Coppins"
+        "name": "Kieran Coppins",
+        "url": "https://kierancoppins.com"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@kcoppins"
     },
     "repository": "https://github.com/KieranCoppins/Generic-Helpers.git",
     "changelogUrl": "https://github.com/KieranCoppins/Generic-Helpers/blob/master/CHANGELOG.md",
